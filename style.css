@@ -1,0 +1,140 @@
+#navbar {
+  float: left;
+  background-color: #d4d4d4;
+  padding: 0px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: helvetica;
+  font-weight: 900;
+  font-size: 2em;
+  display: block;
+  text-align: center;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: teal;
+  padding: 10px;
+  margin: 10px;
+}
+
+#navbar a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.logo {
+  text-align: center;
+}
+.logo img {
+  height: 120px;
+  width: 120px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#text {
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 2em;
+  text-align: center;
+  background-color: #ffffff;
+}
+.card {
+  display: flex;
+  background-color: #d4d4d4;
+  justify-content: center;
+}
+.card div {
+  align-content: center;
+  background-color: beige;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  border-radius: 5px;
+}
+.card img {
+  height: 250px;
+  width: 250px;
+}
+
+.card a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: helvetica sans-serif;
+  font-weight: 900;
+}
+
+.text {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: 800;
+  font-size: 2em;
+}
+.bfooter {
+  background-color: #d4d4d4;
+  color: white;
+  text-align: center;
+  font-family: helvetica;
+  font-weight: 800;
+  font-size: 1.5em;
+}
+
+form {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.feedback {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 1opx;
+}
+
+#prodpage {
+  background-color: beige;
+  text-align: center;
+  font-family: helvetica;
+  font-weight: 800;
+  font-size: 2em;
+}
+
+a {
+  text-decoration: none;
+  color: teal;
+  padding: 10px;
+  margin: 10px;
+}
+
+/*Image Gallery*/
+/*Product Information*/
+#prodinfo {
+  background-color: #d4d4d4;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#info {
+  font-size: 26px;
+}
